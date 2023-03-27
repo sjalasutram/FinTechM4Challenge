@@ -9,11 +9,11 @@ The four funds that are compared with S&P 500 are
 
 The work calculates Cumulative Returns, Sharpe Ratios, Correlation, Beta for rolling window of 60 days to analyze the funds
 
-* [Sharpe Ratio] (Resources/sharpe_ratios.gif)
+![Sharpe Ratio](/Resources/sharpe_ratios.gif)
 
-* [Correlation] (Resources/correlation.gif)
+![Correlation](Resources/correlation.gif)
 
-* [Berkshire Beta Rolling 60 day window] (Resources/berkshire_rolling60.gif)
+![Berkshire Beta Rolling 60 day window](Resources/berkshire_rolling60.gif)
 
 ## Technologies
 
